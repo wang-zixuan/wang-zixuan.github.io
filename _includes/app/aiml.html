@@ -1,0 +1,71 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .project-container {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-radius: 8px; /* optional, for rounded corners */
+            /* border: 1px solid #e1e1e1; */
+        }
+
+        .project-text {
+            flex: 1;
+            text-align: center;
+        }
+
+        .project-text h3 {
+            margin-top: 0px;
+            margin-bottom: 5px;
+            text-align: center;
+        }
+
+        .project-text p {
+            margin-bottom: 0px;
+            color: #666; /* your desired color for the paragraph */
+        }
+
+        .code {
+            text-align: center;
+        }
+
+        .project-image {
+            flex: 0 0 50%;
+            padding-right: 20px;
+        }
+
+        .project-image img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px; /* optional, for rounded image corners */
+        }
+
+        .thin-grey-line {
+            border: none;
+            height: 1px;
+            background-color: #e1e1e1; /* Light grey color */
+            margin-top: 0px; /* Adjust the margin as needed */
+            margin-bottom: 5px; /* Adjust the margin as needed */
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="project-container">
+        <div class="project-image">
+            <a href="https://github.com/wang-zixuan/Event-Stereo-Using-SNN"><img src="/assets/EventStereo.png" alt="Event Stereo"></a>
+        </div>
+        <div class="project-text">
+            <h3>Event Stereo <a href="https://github.com/wang-zixuan/Event-Stereo-Using-SNN" class="code">Code</a></h3>
+            <hr class="thin-grey-line">
+
+            <p>Event Stereo is a SNN-based model for estimating depth from the scenario using asynchronous stereo events, which can reduce 20x FLOPs when compared to CNN model.</p>
+
+        </div>
+    </div>
+
+</body>
+</html>
