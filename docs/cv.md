@@ -2,7 +2,7 @@
 layout: default
 title: CV
 permalink: /cv
-nav_order: 2
+nav_order: 4
 ---
 
 ## Education
@@ -15,7 +15,7 @@ nav_order: 2
 Shanghai, China, Jul 2022 - Sep 2022
 - *Software Engineer Intern*, Amazon \
 Beijing, China, Mar 2022 - Jul 2022
-- *Software Engineer Intern*, Vivo \
+- *Machine Learning Engineer Intern*, Vivo \
 Nanjing, China, Mar 2021 - May 2021
 
 ## Selected Awards
