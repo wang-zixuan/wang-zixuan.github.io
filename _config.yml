@@ -20,6 +20,5 @@ aux_links:
   "GitHub":
     - "https://github.com/wang-zixuan"
 
-# nav_external_links:
-#   - title:
-#     url:
+nav:
+  include_posts: true

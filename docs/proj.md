@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project
+title: Projects
 permalink: /proj
 nav_order: 1
 ---
