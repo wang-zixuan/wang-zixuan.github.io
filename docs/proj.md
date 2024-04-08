@@ -5,4 +5,5 @@ permalink: /proj
 nav_order: 1
 ---
 
-{% include app/projects.html %}
+### AI/CV
+{% include app/projects_aicv.html %}
