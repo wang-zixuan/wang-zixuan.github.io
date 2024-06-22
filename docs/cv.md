@@ -11,6 +11,7 @@ nav_order: 4
 - B.Eng. in *Electrical and Computer Engineering*, Soochow University (CN), Sep 2016 - Jun 2020
 
 ## Professional Experience
+- *Backend Engineer Intern*, **Tencent**
 - *Open Source Contributor*, **Google Summer of Code** \
 California, US (Remote), May 2022 - Aug 2022
 - *Software Engineer Intern*, **Morgan Stanley** \
