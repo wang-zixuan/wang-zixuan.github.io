@@ -11,11 +11,13 @@ nav_order: 4
 - B.Eng. in *Electrical and Computer Engineering*, Soochow University (CN), Sep 2016 - Jun 2020
 
 ## Professional Experience
-- *Software Engineer Intern*, Morgan Stanley \
+- *Open Source Contributor*, **Google Summer of Code** \
+California, US (Remote), May 2022 - Aug 2022
+- *Software Engineer Intern*, **Morgan Stanley** \
 Shanghai, China, Jul 2022 - Sep 2022
-- *Software Engineer Intern*, Amazon \
+- *Software Engineer Intern*, **Amazon** \
 Beijing, China, Mar 2022 - Jul 2022
-- *Machine Learning Engineer Intern*, Vivo \
+- *Machine Learning Engineer Intern*, **Vivo** \
 Nanjing, China, Mar 2021 - May 2021
 
 ## Selected Awards
