@@ -6,9 +6,9 @@ nav_order: 4
 ---
 
 ## Education
-- M.S. in *Computer Science*, Georgia Institute of Technology, Aug 2023 - May 2025 (Expected)
-- M.Eng. in *Electrical and Computer Engineering*, Nanjing University, Sep 2020 - Jun 2023
-- B.Eng. in *Electrical and Computer Engineering*, Soochow University (CN), Sep 2016 - Jun 2020
+- M.S. in *Computer Science*, **Georgia Institute of Technology**, Aug 2023 - May 2025 (Expected)
+- M.Eng. in *Electrical and Computer Engineering*, **Nanjing University**, Sep 2020 - Jun 2023
+- B.Eng. in *Electrical and Computer Engineering*, **Soochow University (CN)**, Sep 2016 - Jun 2020
 
 ## Professional Experience
 - *Backend Engineer Intern*, **Tencent** \
