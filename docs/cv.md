@@ -22,5 +22,11 @@ Beijing, China, Mar 2022 - Jul 2022
 - *Machine Learning Engineer Intern*, **Vivo** \
 Nanjing, China, Mar 2021 - May 2021
 
+## Research Experience
+- *Graduate Research Assistant*, **Nanjing University** \
+Nanjing, China, May 2021 - Mar 2022
+- *Undergraduate Research Assistant*, **Soochow University** \
+Suzhou, China, Aug 2018 - Jul 2019
+
 ## Selected Awards
 - China National Scholarship, 2019 & 2018
