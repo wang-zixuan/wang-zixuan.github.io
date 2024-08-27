@@ -14,7 +14,7 @@ nav_order: 4
 - *Backend Engineer Intern*, **Tencent** \
 Beijing, China, May 2024 - Aug 2024
 - *Open Source Contributor*, **Google Summer of Code** \
-California, US (Remote), May 2024 - Sep 2024
+California, United States (Remote), May 2024 - Sep 2024
 - *Software Engineer Intern*, **Morgan Stanley** \
 Shanghai, China, Jul 2022 - Sep 2022
 - *Software Engineer Intern*, **Amazon** \
