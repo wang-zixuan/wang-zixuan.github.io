@@ -22,6 +22,10 @@ Beijing, China, Mar 2022 - Jul 2022
 - *Machine Learning Engineer Intern*, **Vivo** \
 Nanjing, China, Mar 2021 - May 2021
 
+## Teaching Experience
+- *Graduate Teaching Assistant* for CSE 8803: Brain-inspired Machine Intelligence, **Georgia Institute of Technology** \
+Atlanta, Georgia, United States, Aug 2024 - Now
+
 ## Research Experience
 - *Graduate Research Assistant*, **Nanjing University** \
 Nanjing, China, May 2021 - Mar 2022
