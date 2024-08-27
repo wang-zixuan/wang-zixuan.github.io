@@ -24,7 +24,7 @@ Nanjing, China, Mar 2021 - May 2021
 
 ## Teaching Experience
 - *Graduate Teaching Assistant* for CSE 8803: Brain-inspired Machine Intelligence, **Georgia Institute of Technology** \
-Atlanta, Georgia, United States, Aug 2024 - Now
+Atlanta, Georgia, United States, Aug 2024 - Dec 2024
 
 ## Research Experience
 - *Graduate Research Assistant*, **Nanjing University** \
