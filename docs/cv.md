@@ -34,9 +34,12 @@ Nanjing, China, May 2021 - Mar 2022
 - *Undergraduate Research Assistant*, **Soochow University** \
 Suzhou, China, Aug 2018 - Jul 2019
 
-## Preprints
+## Preprint
 - [*Dyads: Artist-Centric, AI-Generated Dance Duets*](https://arxiv.org/abs/2503.03954) \
 **Zixuan Wang**, Luis Zerkowsk, Ilya Vidrin, and Mariel Pettee
 
-## Selected Awards
+## Selected Award
 - China National Scholarship, 2019 & 2018
+
+## Google Scholar
+- [Zixuan Wang](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOv-ny-tsUZkDOt88mj5IMG3cRt7h8GIlrDKHoB-zFsBFM9gGzoPPAa625jpe1kx35PRrnvByrrPtnRQyY-gb4r-27MM&user=-hRbKdMAAAAJ)
