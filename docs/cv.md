@@ -7,7 +7,6 @@ nav_order: 4
 
 ## Education
 - M.S. in *Computer Science*, **Georgia Institute of Technology**, Aug 2023 - Dec 2024
-- M.Eng. in *Electrical and Computer Engineering*, **Nanjing University**, Sep 2020 - Jun 2023
 - B.Eng. in *Electrical and Computer Engineering*, **Soochow University (CN)**, Sep 2016 - Jun 2020
 
 ## Professional Experience
@@ -36,7 +35,7 @@ Suzhou, China, Aug 2018 - Jul 2019
 
 ## Preprint
 - [*Dyads: Artist-Centric, AI-Generated Dance Duets*](https://arxiv.org/abs/2503.03954) \
-**Zixuan Wang**, Luis Zerkowsk, Ilya Vidrin, and Mariel Pettee
+**Zixuan Wang**, Luis Zerkowski, Ilya Vidrin, and Mariel Pettee
 
 ## Selected Award
 - China National Scholarship, 2019 & 2018
