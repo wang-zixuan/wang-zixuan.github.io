@@ -1,8 +1,10 @@
 ---
-layout: default
-title: Second Order Optimizer for Deep Learning Models
+layout: post
+title: "<span class='nav-date'>[Jan 15]</span> Second Order Optimizer for Deep Learning Models"
 parent: 2024
 grand_parent: Posts
-permalink: /posts/2024/second_order_optimizer_2024
-nav_order: 1
+permalink: /posts/2024/second_order_optimizer
+nav_order: 0
 ---
+
+This is the final project submitted to CSE 6740: Machine Learning. 

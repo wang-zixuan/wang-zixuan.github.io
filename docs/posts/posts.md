@@ -6,4 +6,4 @@ has_children: true
 nav_order: 3
 ---
 
-Check out my posts below (indexed by year)!
+Check out my posts below 👇
