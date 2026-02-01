@@ -7,7 +7,7 @@ permalink: /posts/2024/bmi
 nav_order: -1
 ---
 
-As a GTA for this course and since this course is newly offered for this semester, I implemented 4 labs for students from scratch using Google Colab.
+As a GTA for this course and since this course is newly offered for the Fall of 2024, I implemented 4 labs for students from scratch using Google Colab.
 
 [Lab 1](https://colab.research.google.com/drive/1GoujR_KPSeP4lEKXbtWvVXd_Fbgt9OAi?usp=drive_link)
 
