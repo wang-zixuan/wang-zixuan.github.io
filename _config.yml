@@ -23,3 +23,5 @@ aux_links:
 
 nav:
   include_posts: true
+
+timezone: America/New_York
