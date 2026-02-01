@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'kramdown-parser-gfm'
 gem "webrick"
 gem "jekyll-remote-theme" # to load just-the-docs from GitHub
 gem "jekyll-seo-tag" # supporting plugin
