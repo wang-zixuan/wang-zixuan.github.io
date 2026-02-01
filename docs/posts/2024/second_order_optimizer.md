@@ -7,4 +7,4 @@ permalink: /posts/2024/second_order_optimizer
 nav_order: 0
 ---
 
-This is the final project submitted to CSE 6740: Machine Learning. 
+This is the final project submitted to **CSE 6740: Machine Learning**. 

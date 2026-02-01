@@ -8,13 +8,7 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.last_modified_date %}
-    <hr>
-    <p class="page-last-updated">
-      Last updated:
-      {{ page.last_modified_date | date: "%Y-%m-%d" }}
-    </p>
-  {% elsif site.last_edit_timestamp and page.last_edit_timestamp != false %}
+  {% if site.last_edit_timestamp and page.last_edit_timestamp != false %}
     <hr>
     <p class="page-last-updated">
       Last updated:
