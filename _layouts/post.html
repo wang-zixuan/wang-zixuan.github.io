@@ -8,12 +8,10 @@ layout: default
     {{ content }}
   </div>
 
-  {% if site.last_edit_timestamp and page.last_edit_timestamp != false %}
-    <hr>
-    <p class="page-last-updated">
-      Last updated:
-      {{ page.last_modified_at | date: "%b %e %Y at %I:%M %p" }}
-    </p>
-  {% endif %}
+  <hr>
+  <p class="page-last-updated">
+    Last updated:
+    {{ page.last_modified_at | date: "%b %e %Y at %I:%M %p" }}
+  </p>
 
 </article>
