@@ -30,6 +30,10 @@ body {
     .main-content main {
         flex: 1;
     }
+
+    .main-content .site-footer {
+        position: static;
+    }
 }
 
 .nav-date {
