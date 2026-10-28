@@ -8,3 +8,5 @@ nav_order: 0
 ---
 
 This is the final project submitted to **CSE 6740: Machine Learning**.
+
+[![Second Order Optimizer](/assets/second-order.png)](https://github.com/wang-zixuan/Second-Order-Optimizer)

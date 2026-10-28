@@ -9,6 +9,8 @@ nav_order: 0
 
 ## Dense Event Stereo Depth Estimation by a CNN-guided Spiking Neural Network
 
+[![Event Stereo](/assets/EventStereo.png)](https://github.com/wang-zixuan/Event-Stereo-Using-SNN)
+
 ### Background
 This project was done when I was a Graduate Research Assistant at Nanjing University. 
 I had the chance to learn what is a Spiking Neural Network, how to train a Spiking Neural Network, and how to empower an SNN with a CNN.
