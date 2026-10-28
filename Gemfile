@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "jekyll", "~> 3.10"
 gem 'kramdown-parser-gfm'
 gem "webrick"
 gem "jekyll-remote-theme" # to load just-the-docs from GitHub
