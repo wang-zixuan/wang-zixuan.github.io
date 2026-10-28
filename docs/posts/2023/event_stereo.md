@@ -17,5 +17,3 @@ The paper is available [here](https://drive.google.com/file/d/1HT9fj10f4s3iTmjqC
 
 ### Introduction
 Inspired by human retina, event-based sensors (event cameras), such as Dynamic Vision Sensor (DVS) and Dynamic and Active-pixel Vision Sensor (DAVIS), are designed to detect logarithm illumination change and output asynchronous binary event stream, which can achieve high dynamic range (∼100dB), microsecond temporal resolution, low latency, and much lower power consumption. With the wide application of event cameras in different fields, the binocular event camera systems are proposed for stereo estimation, and many CNN-based algorithms have got promising results. However, the extensive computational cost of CNN-based algorithms greatly impairs the main advantages of event cameras, i.e., the high speed, low latency and low power consumption caused by the sparse events.
-
-Spiking Neural Network is a type of neural network that 
