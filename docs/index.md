@@ -5,7 +5,7 @@ nav_order: 0
 permalink: /
 ---
 
-## Hi there! 👋 I'm Zixuan Wang, a passionate developer.
+## Hi there! 👋 I'm Zixuan Wang, a Java software engineer.
 
 {% include app/intro.html %}
 
